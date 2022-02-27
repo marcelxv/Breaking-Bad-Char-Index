@@ -1,16 +1,22 @@
-I Just Commit A Web based app created for search on Breaking Bad Characters
+Web-based app built in React searches for Breaking Bad characters via API
+
+Tailor-made improvements:
+
+1. Status translate function to Brazilian Portuguese
+2. Function that converts dates to Brazilian format
+3. Search using UseState (real-time search)
+4. Use Axios to query via query (real-time search)
+
+
 #API #frontend #components #CSS #JavaScript #react 
+
 Made using React 6, Axios, Redux, Webpack and CSS3, JavaScript and HTML5
 API provided by https://breakingbadapi.com
 
-Repository: 
-
-
-Live project:
+Repository: https://github.com/marcelxv/Breaking-Bad-Char-Index
+Live project: https://breaking-bad-char-index-dzf7hshge-marcelxv.vercel.app/
 
 Walkthrough (step by step): 
-
-
 - [x] Create first component HEADER.JS
 - [x] Create a subfolder on components called UI
 - [x] Analyze and comment CSS
