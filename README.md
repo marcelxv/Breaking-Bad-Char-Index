@@ -14,7 +14,7 @@ Made using React 6, Axios, Redux, Webpack and CSS3, JavaScript and HTML5
 API provided by https://breakingbadapi.com
 
 Repository: https://github.com/marcelxv/Breaking-Bad-Char-Index
-Live project: https://breaking-bad-char-index-dzf7hshge-marcelxv.vercel.app/
+Live project: https://breaking-bad-char-index.vercel.app/
 
 Walkthrough (step by step): 
 - [x] Create first component HEADER.JS
