@@ -17,12 +17,8 @@ Repository: https://github.com/marcelxv/Breaking-Bad-Char-Index
 Live project: https://breaking-bad-char-index.vercel.app/
 
 Walkthrough (step by step): 
-- [x] Create first component HEADER.JS
-- [x] Create a subfolder on components called UI
-- [x] Analyze and comment CSS
-- [x] Add favicon
-- [x] Error for capital letter on project’s name
-- [x] Create a React App Structure
+
+- [x] Create a React App Structure via npm
 - [x] Clean code that we’ll not use
 - [x] Clean files that we’ll not use
 - [x] Open terminal on VSCODE and give command to create react app
